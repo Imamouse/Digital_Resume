@@ -72,8 +72,8 @@ st.write("---")
 st.subheader("Work History")
 st.write("🛒", "ECommerce Customer Service Representative | Non-disclosure agreement")
 st.write("January 2023 - Present (4 months)")
-st.write(
-    """Skilled Customer Service VA with expertise in handling German and English
+st.write("""
+- ► Skilled Customer Service VA with expertise in handling German and English
 stores, managing refunds, and coordinating supplier issues. Proficient in
 providing exceptional customer support, resolving complex inquiries, and
 ensuring timely and effective solutions. Adept at navigating challenging
@@ -87,7 +87,7 @@ st.write("#")
 st.write("📞", "Escalations Specialist & Customer Service | Inspiro Relia, Inc")
 st.write("December 2020 - January 2023 (2 years 2 months)")
 st.write("""
-As an experienced escalations specialist, I have a proven track record of
+- ► As an experienced escalations specialist, I have a proven track record of
 successfully resolving complex customer issues and ensuring a positive
 experience for all parties involved. With strong communication and problemsolving skills, I am able to effectively navigate challenging situations and find
 mutually beneficial solutions. I am highly organized and detail-oriented, and I
@@ -100,7 +100,7 @@ st.write("#")
 st.write("📱", "Digital Assistance Center Specialist | Concentrix")
 st.write("September 2020 - November 2020 (3 months)")
 st.write("""
-As a customer-focused digital assistance center specialist, I have a passion
+- ► As a customer-focused digital assistance center specialist, I have a passion
 for helping others and a strong track record of providing exceptional service.
 With extensive experience in technical support and troubleshooting, I am able
 to quickly and accurately resolve customer issues and ensure a seamless
